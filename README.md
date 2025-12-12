@@ -61,3 +61,12 @@ Technologies Used
 - Improved visual consistency across page
 - Implemented responsive design using media queries
 - Tested layout on desktop, tablet, and mobile screen sizes
+
+- REFERENCES
+
+- Coyier, C. (2023) A Complete Guide to Flexbox. Available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (Accessed: 18 May 2025).
+
+- Marcotte, E. (2011) Responsive Web Design. New York: A Book Apart.
+
+- Mozilla Developer Network (2024) CSS Reference. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 18 May 2025).
+- 
